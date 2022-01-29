@@ -8,6 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
            Welcome to Sajani's Simple App for Data Engineering II !
+           Don't forget to go to the master branch of the github repo :)
         </p>
         <a
           className="App-link"
